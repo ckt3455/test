@@ -1,20 +1,20 @@
 {
-  "name": "zqy234/terrytest",
-  "description": "Yii2 zqy234 terrytest",
+  "name": "ckt3455/test",
+  "description": "Yii2 ckt3455",
   "keywords": [
     "yii2",
-    "terrytest"
+    "ckt3455"
   ],
-  "homepage": "https://github.com/zqy234/terrytest",
+  "homepage": "https://github.com/ckt3455/test",
   "type": "yii2-extension",
   "license": "MIT",
   "support": {
-    "source": "https://github.com/zqy234/terrytest"
+    "source": "https://github.com/ckt3455/test"
   },
   "authors": [
     {
-      "name": "terry water",
-      "email": "zqy234@126.com"
+      "name": "ckt3455",
+      "email": "342214783@qq.com"
     }
   ],
   "minimum-stability": "stable",
